@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8278
     wikipedia: http://en.wikipedia.org/wiki/Edward_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30653#The-Revenge--A-Tragedy
 gutenberg_issued: '2009-12-11'
 gutenberg_type: Text
 identifiers:
